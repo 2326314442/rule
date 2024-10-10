@@ -7,7 +7,15 @@
     },
     {
       "domain_suffix": [
-        ".linklite.fun"
+        "linklite.fun"
+      ]
+    },
+    {
+      "domain_keyword": [
+      ]
+    },
+    {
+      "ip_cidr": [
       ]
     }
   ]
